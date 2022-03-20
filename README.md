@@ -21,6 +21,8 @@
     </tr>
 </table>
 
+### [Copyright] (https://dribbble.com/shots/10756104-Coffee-Shop-Mobile-App)
+
 ## 02 - Cinema App 
 
 <table border>
@@ -39,3 +41,5 @@
       
     </tr>
 </table>
+
+### [Copyright] (https://dribbble.com/shots/9527363-Movie-App/attachments/1554049?mode=media)
