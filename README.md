@@ -1,16 +1,41 @@
-# flutter_projects
+# Flutter - Projects - UI | TuanKieu
 
-A new Flutter project.
+---
+## APPs
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 01 - Coffee App 
 
-A few resources to get you started if this is your first Flutter project:
+<table border>
+    <tr>
+        <th style="text-align:center">Home Screen</th>
+        <th style="text-align:center">Cart Screen</th>
+        <th style="text-align:center">Cart Screen</th>
+      <th style="text-align:center">Deatil Screen</th>
+    </tr>
+    <tr>
+        <td><img src="./screenshot/coffee-app/1.png" alt="" width="200"></td>
+        <td><img src="./screenshot/coffee-app/Screenshot_1647742413.png" alt="" width="200"></td>
+      <td><img src="./screenshot/coffee-app/2.png" alt="" width="200"></td>
+      <td><img src="./screenshot/coffee-app/Screenshot_1647742427.png" alt="" width="200"></td>
+    </tr>
+</table>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 02 - Cinema App 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table border>
+    <tr>
+        <th style="text-align:center">Home Screen</th>
+        <th style="text-align:center">Deatil Screen</th>
+        <th style="text-align:center">Buy Ticket Screen</th>
+        <th style="text-align:center">Pay Ticket Screen</th>
+    </tr>
+    <tr>
+        <td><img src="./screenshot/cinema-app/Screenshot_1647742514.png" alt="" width="200"></td>
+        <td><img src="./screenshot/cinema-app/Screenshot_1647742536.png" alt="" width="200"></td>
+        <td><img src="./screenshot/cinema-app/Screenshot_1647742546.png" alt="" width="200"></td>
+        <td><img src="./screenshot/cinema-app/Screenshot_1647742565.png" alt="" width="200"></td>
+      
+      
+    </tr>
+</table>
